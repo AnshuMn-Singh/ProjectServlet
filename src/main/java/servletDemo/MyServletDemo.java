@@ -1,4 +1,4 @@
-package in.sp.backend;
+package servletDemo;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
